@@ -1,5 +1,5 @@
 Name: koffice-l10n-fy
-Version: 1.9.99.0
+Version: 2.0.0
 Release: %mkrel 1
 Summary: Language files for KOffice Frisian
 Group: System/Internationalization
