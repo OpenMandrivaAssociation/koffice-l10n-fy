@@ -1,6 +1,6 @@
 Name: koffice-l10n-fy
 Version: 2.1.1
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Language files for KOffice Frisian
 Group: System/Internationalization
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
